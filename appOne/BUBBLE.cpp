@@ -22,6 +22,6 @@ void BUBBLE::perform() {
 	colorMode(HSV);
 	angleMode(DEGREES);
 	fill(Color);
-	circle(Pos.x, Pos.y, Radius);
+	circle(Pos.x, Pos.y, Radius*2);
 
 }

@@ -155,6 +155,7 @@
     <ClCompile Include="BUBBLE.cpp" />
     <ClCompile Include="BUBBLE_ART.cpp" />
     <ClCompile Include="gmain.cpp" />
+    <ClCompile Include="RAIN.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="resource.rc" />
@@ -166,6 +167,7 @@
     <ClInclude Include="ART.h" />
     <ClInclude Include="BUBBLE.h" />
     <ClInclude Include="BUBBLE_ART.h" />
+    <ClInclude Include="RAIN.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

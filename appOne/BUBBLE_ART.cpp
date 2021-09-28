@@ -1,7 +1,7 @@
 #include "BUBBLE.h"
 #include "BUBBLE_ART.h"
 BUBBLE_ART::BUBBLE_ART() {
-	Num = 50;//–A‚Ì”
+	Num = 10;//–A‚Ì”
 	Bubbles = new BUBBLE[Num];//æ“ªƒAƒhƒŒƒX‚ğó‚¯æ‚é
 }
 BUBBLE_ART::~BUBBLE_ART() {

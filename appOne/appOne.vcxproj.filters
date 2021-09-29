@@ -21,11 +21,13 @@
     <ClCompile Include="BUBBLE.cpp" />
     <ClCompile Include="BUBBLE_ART.cpp" />
     <ClCompile Include="RAIN.cpp" />
+    <ClCompile Include="RAIN_ART.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BUBBLE.h" />
     <ClInclude Include="ART.h" />
     <ClInclude Include="BUBBLE_ART.h" />
     <ClInclude Include="RAIN.h" />
+    <ClInclude Include="RAIN_ART.h" />
   </ItemGroup>
 </Project>

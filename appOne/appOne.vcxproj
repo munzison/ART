@@ -157,6 +157,8 @@
     <ClCompile Include="gmain.cpp" />
     <ClCompile Include="RAIN.cpp" />
     <ClCompile Include="RAIN_ART.cpp" />
+    <ClCompile Include="SQUARE.cpp" />
+    <ClCompile Include="SQUARE_ART.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="resource.rc" />
@@ -170,6 +172,8 @@
     <ClInclude Include="BUBBLE_ART.h" />
     <ClInclude Include="RAIN.h" />
     <ClInclude Include="RAIN_ART.h" />
+    <ClInclude Include="SQUARE.h" />
+    <ClInclude Include="SQUARE_ART.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -9,4 +9,4 @@ void gmain() {
     while (notQuit) {
         square.perform();
     }
-}
+} 

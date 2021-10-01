@@ -21,5 +21,6 @@ void SQUARE::perform() {
 	strokeWeight(1);
 	stroke(0);
 	fill(Color);//3çsñ⁄
+	angleMode(RADIANS);
 	rect(Pos.x, Pos.y, Len, Len, Angle);
 }
